@@ -5,5 +5,3 @@ el objetivo es volverse un experto
 en el uso de git y se trata 
 
 de un paso mas a data
-
-y saber como conseguir las esferas del dragon
